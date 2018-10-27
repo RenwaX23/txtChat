@@ -1,7 +1,0 @@
-<John> Hi
-<Mike> HI
-<Rob> Hello
-<John> How r u guys
-<Mike> good wbu
-<Rob> not bad
-<John> lol

@@ -11,7 +11,7 @@ public class Ttp {
     public static void main(String[] args) throws IOException, InterruptedException {
         
             // Clear the console, set windows size,title
-            new ProcessBuilder("cmd", "/c", "cls && mode con:cols=65 lines=20 && TITLE 'Chat By Renwa'").inheritIO().start().waitFor();
+            new ProcessBuilder("cmd", "/c", "cls && mode con:cols=65 lines=20 && TITLE 'txtChat By Renwa'").inheritIO().start().waitFor();
 
             //Scanner for adding nickname
             Scanner xx = new Scanner(System.in);

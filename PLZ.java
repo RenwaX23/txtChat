@@ -14,7 +14,7 @@ public class PLZ {
           System.out.println("");}
          
         // Clear the console, set windows size,title
-        new ProcessBuilder("cmd", "/c", "cls && mode con:cols=65 lines=90 && TITLE 'Chat By Renwa'").inheritIO().start().waitFor();
+        new ProcessBuilder("cmd", "/c", "cls && mode con:cols=65 lines=90 && TITLE 'txtChat By Renwa'").inheritIO().start().waitFor();
 
         //Infinite loop for read the file as live
         for (int i = 0; i < 10; i--) {

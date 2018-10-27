@@ -9,9 +9,9 @@ System Requirements:
 * Java
 
 How it works, Features:
-* The program automatically created a "db.txt" file
-* PLZ Console starts to read the "db.txt" file as Live
-* Ttp Console Writes to "db.txt" the File
+* The program automatically create a "db.txt" file
+* 'PLZ' Console starts to read the "db.txt" file as Live
+* 'Ttp' Console Writes to the "db.txt" File
 * Type "-clear" to clear the chat Console
 * Unlimted Users
 * 10 KB in size

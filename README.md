@@ -2,7 +2,7 @@
 Group Chat Application That Works on File Read &amp; Write
 ___
 ![](https://i.imgur.com/lpXdsCU.png)
-#### txtChat is a Wdinows Group Chat Application built with Java, That Works on File Read and Write all You Need is a File Sharing Access and You Can Start Chatting With Unlimted Users.
+#### txtChat is a Windows Group Chat Application built with Java, That Works on File Read and Write all You Need is a File Sharing Access and You Can Start Chatting With Unlimted Users.
 
 System Requirements:
 * Windows

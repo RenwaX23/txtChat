@@ -16,7 +16,9 @@ How it works, Features:
 * Unlimted Users
 * 10 KB in size
 
-` Download the all Files and Open "run.bat" to start the Application `
+` Download the all Files in (app) folder and Open "run.bat" to start the Application. `  
+  
+` You can also See the source code and contribute to the app in (src) folder. `
 
 
 #### Made with ❤ by [Renwa](https://twitter.com/RenwaX23)

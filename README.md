@@ -16,5 +16,7 @@ How it works, Features:
 * Unlimted Users
 * 10 KB in size
 
+` Download the all Files and Open "run.bat" to start the Application `
+
 
 #### Made with ❤ by [Renwa](https://twitter.com/RenwaX23)
